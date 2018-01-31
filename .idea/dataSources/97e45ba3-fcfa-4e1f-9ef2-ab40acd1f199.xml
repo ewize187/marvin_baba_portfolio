@@ -90,7 +90,7 @@
       <Position>4</Position>
       <DataType>text|0</DataType>
     </column>
-    <column id="31" parent="13" name="main_imaage">
+    <column id="31" parent="13" name="main_image">
       <Position>5</Position>
       <DataType>text|0</DataType>
     </column>
