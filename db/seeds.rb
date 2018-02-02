@@ -30,6 +30,6 @@ ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in vo
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
 sunt in culpa qui officia deserunt mollit anim id est laborum." ,
     main_imaage: "http://via.placeholder.com/600x400" ,
-    thumb_image: "http://via.placeholder.com/350x250"
+    thumb_image: "http://via.placeholder.com/350x150"
   )
 end
