@@ -6,6 +6,7 @@ Rails.application.routes.draw do
 
   get 'About-Me', to: 'pages#About'
   get 'Contact', to: 'pages#Contact'
+  get 'Home', to: 'pages#Home'
 
 
 
