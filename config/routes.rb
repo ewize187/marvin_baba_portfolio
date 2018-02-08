@@ -8,6 +8,11 @@ Rails.application.routes.draw do
   get 'Contact', to: 'pages#Contact'
   get 'Home', to: 'pages#Home'
 
+  resources :blogs do
+    member do
+      get :toggle_status
+    end
+  end
 
 
   root to: 'pages#Home'
